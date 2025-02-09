@@ -1,4 +1,4 @@
-# aib_data_visualization
+# AIB_data_visualization
 Data_Visualization - Decoding Sustainability: AIB’s Efforts in Achieving SDG 8, 9, and 13
 
 The project analyzes the sustainability initiatives of Allied Irish Bank (AIB) in terms of data visualization around the goals aligned with Sustainable Development Goals (SDGs) 8, 9, and 13. This involves decent work and economic growth, industry, innovation and infrastructure, and climate action. The datasets come from AIB's Sustainability Reports and the United Nations SDG database. Some of the indicators at the heart of the project include looking up greenhouse gas emissions, green finance, and economic contributions. Through these techniques, data cleaning, mixed-typed or transformed data normalization, and visualizer so may find some insights on how AIB impacts Ireland in transition towards towards low-carbon economy discovery while providing recommendations for improving sustainability strategy.
